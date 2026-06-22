@@ -10,7 +10,7 @@ app.use(cors({
   origin: [
     "http://localhost:5173", 
     "http://localhost:3000",
-    "https://your-frontend.vercel.app"   // add your Vercel frontend URL here
+    "portfolio-nine-nu-zvmbuq9sh1.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
 }));
