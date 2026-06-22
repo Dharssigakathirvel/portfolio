@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
 const stacks = [
-  { title: "Hardware ⚡",   items: ["Arduino", "ESP32", "PIC", "Sensors", "Oscilloscope"] },
-  { title: "Embedded 🔌",  items: ["Embedded C", "Microcontrollers", "IoT Prototyping", "UART/SPI/I2C"] },
-  { title: "Software 💻",  items: ["React", "Node.js", "Express", "Java", "Python", "MongoDB"] },
+  { title: "Hardware ⚡",   items: ["Arduino", "ESP32", "PIC", "Sensors", "Proteus", "Electraical Machines"] },
+  { title: "Embedded 🔌",  items: ["Embedded C", "Microcontrollers", "IoT Prototyping", "UART/SPI/I2C", "E-CAD"] },
+  { title: "Software 💻",  items: ["C", "React", "Node.js", "Express", "Java", "Python", "MongoDB"] },
   { title: "IoT & Cloud 🌐", items: ["Blynk", "Weather APIs"] },
 ];
 
