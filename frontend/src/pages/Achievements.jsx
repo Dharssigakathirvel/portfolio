@@ -12,7 +12,7 @@ const data = [
   //   desc: "Hands-on industrial training covering stator and motor rewinding for windmill generators, electrical machine maintenance and assembly workflows in a live manufacturing environment.",
   // },
   {
-    title: "SIH Top 16 🚀",
+    title: "SIH Pre-Finalist 🚀",
     where: "Smart India Hackathon 2025, KEC",
     desc: "Selected among the Top 16 hardware teams in Inter-College Level, at Smart India Hackathon 2025 — one of India's largest student innovation competitions.",
   },
