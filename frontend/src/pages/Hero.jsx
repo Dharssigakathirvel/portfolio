@@ -28,7 +28,7 @@ export default function Hero() {
         transition={{ duration: 0.9, ease: "easeOut" }}
         className="dh-hero__inner"
       >
-        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Full Stack</p>
+        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems Engineer &nbsp;·&nbsp; SIH Pre-FInalist  &nbsp;·&nbsp; Mern Stack Developer</p>
 
         <h1 className="dh-hero__title">
           Heyy, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
