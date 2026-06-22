@@ -6,7 +6,7 @@ const education = [
     title: "B.E. Electrical & Electronics Engineering",
     where: "Kongu Engineering College · 2024–2028",
     highlight: "CGPA 9.32",
-    desc: "Specialising in Embedded Systems, IoT and Smart Energy. Consistently among the top performers in the department.",
+    desc: "Specialising in Embedded Systems, IoT and Smart Energy. Been recogonised as the top 5% best performers in the department.",
   },
   {
     icon: "📚",

@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
 const stacks = [
-  { title: "Hardware ⚡",   items: ["Arduino", "ESP32", "PIC", "Sensors", "Proteus", "Electraical Machines"] },
-  { title: "Embedded 🔌",  items: ["Embedded C", "Microcontrollers", "IoT Prototyping", "UART/SPI/I2C", "E-CAD"] },
+  { title: "Hardware ⚡",   items: ["Arduino", "ESP32", "PIC", "Sensors", "E-CAD", "Ki-CAD", "Electraical Machines"] },
+  { title: "Embedded 🔌",  items: ["Embedded C", "Microcontrollers", "IoT Prototyping", "UART/SPI/I2C", "Proteus"] },
   { title: "Software 💻",  items: ["C", "React", "Node.js", "Express", "Java", "Python", "MongoDB"] },
-  { title: "IoT & Cloud 🌐", items: ["Blynk", "Weather APIs"] },
+  { title: "IoT & Cloud 🌐", items: ["Blynk", "Weather APIs", "MongoDB"] },
 ];
 
 export default function EngineeringStack() {
