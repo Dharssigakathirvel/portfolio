@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "EduBridge backend API",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
