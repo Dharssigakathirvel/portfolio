@@ -17,7 +17,7 @@ const projects = [
     title: "AquaVolt 💧",
     type: "R&D Project",
     desc: "Research on harvesting electrical energy from atmospheric moisture — exploring piezoelectric and hygroscopic materials.",
-    tech: ["Arduino", "ESP32", "Research"],
+    tech: ["Arduino", "ESP32", "BQ25504 Energy IC", "Research" ],
   },
   {
     title: "EduBridge 🎓",

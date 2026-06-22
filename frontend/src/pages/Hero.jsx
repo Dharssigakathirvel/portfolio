@@ -28,16 +28,16 @@ export default function Hero() {
         transition={{ duration: 0.9, ease: "easeOut" }}
         className="dh-hero__inner"
       >
-        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems Engineer &nbsp;·&nbsp; SIH Pre-FInalist  &nbsp;·&nbsp; Mern Stack Developer</p>
+        <p className="dh-eyebrow">Electrical Engineer &nbsp;·&nbsp; Embedded Systems Engineer &nbsp;·&nbsp; SIH Pre-FInalist  &nbsp;·&nbsp; Mern Stack Developer</p>
 
         <h1 className="dh-hero__title">
-          Heyy, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
+          Hii, This is <span className="dh-gradient-text">Dharssiga</span> 👋
         </h1>
 
         <p className="dh-hero__sub">
-          I design smart connected systems —<br />
+          I design smart connected systems <br />
           from microcontrollers to web platforms,<br />
-          where hardware meets software.
+          where hardware meets software.✨
         </p>
 
         <div className="dh-cta-row">

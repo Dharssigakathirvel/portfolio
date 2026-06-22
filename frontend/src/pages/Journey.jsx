@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
 const data = [
-  { year: "2024", title: "Started EEE ⚡",      desc: "Began my engineering journey, diving into circuit theory, electronics, and the fundamentals of electrical systems." },
-  { year: "2025", title: "IoT Development 🔌",   desc: "Built first embedded projects — smart irrigation, sensor networks, and IoT prototyping with ESP32 and Arduino." },
+  { year: "2024", title: "Started EEE ⚡",      desc: "Began my engineering journey, diving into circuit theory, electronics and the fundamentals of electrical systems." },
+  { year: "2025", title: "IoT Development 🔌",   desc: "Built first embedded projects — smart irrigation, sensor networks and IoT prototyping with ESP32 and Arduino." },
   { year: "2025", title: "Hackathons 🚀",         desc: "Competed in Smart India Hackathon, reaching the Top 16 in the hardware track." },
-  { year: "2026", title: "Full Stack Dev 💻",     desc: "Expanded into MERN stack development, building full-stack web applications alongside hardware projects." },
+  { year: "2026", title: "Mern Stack Dev 💻",     desc: "Expanded into MERN stack development, building full-stack web applications alongside hardware projects." },
 ];
 
 export default function Journey() {
