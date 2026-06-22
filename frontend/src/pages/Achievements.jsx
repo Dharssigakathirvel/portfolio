@@ -4,7 +4,7 @@ const data = [
   {
     title: "CGPA 9.32 🎓",
     where: "B.E. EEE · Kongu Engineering College · 2024–2028",
-    desc: "Maintaining a CGPA of 9.32 in B.E. Electrical & Electronics Engineering, the top 5% performers in the department.",
+    desc: "Maintaining a CGPA of 9.32 in B.E. Electrical & Electronics Engineering as the top 5% performers in the department.",
   },
   // {
   //   title: "Inplant Training 🏭",
@@ -14,7 +14,7 @@ const data = [
   {
     title: "SIH Top 16 🚀",
     where: "Smart India Hackathon 2025, KEC",
-    desc: "Selected among the Top 16 hardware teams nationwide at Smart India Hackathon 2025 — one of India's largest student innovation competitions.",
+    desc: "Selected among the Top 16 hardware teams in Inter-College Level, at Smart India Hackathon 2025 — one of India's largest student innovation competitions.",
   },
   {
     title: "2nd Prize – TechnoTalk 🏆",

@@ -27,10 +27,10 @@ export default function Hero() {
         transition={{ duration: 0.9, ease: "easeOut" }}
         className="dh-hero__inner"
       >
-        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; SIH Pre-Finalist &nbsp;·&nbsp; Full Stack Developer</p>
+        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems Engineer &nbsp;·&nbsp; SIH Pre-Finalist &nbsp;·&nbsp; Full Stack Developer</p>
 
         <h1 className="dh-hero__title">
-          Hi, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
+          Hii, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
         </h1>
 
         <p className="dh-hero__sub">
