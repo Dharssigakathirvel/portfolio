@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <nav className="dh-nav">
       <div className="dh-nav__inner">
-        <span className="dh-nav__logo">Dharssiga.dev ⚡</span>
+        <span className="dh-nav__logo">Dharssiga.eee⚡</span>
 
         {/* Desktop */}
         <div className="dh-nav__links">
