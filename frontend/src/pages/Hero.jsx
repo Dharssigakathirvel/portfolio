@@ -35,7 +35,7 @@ export default function Hero() {
         </h1>
 
         <p className="dh-hero__sub">
-          I design smart connected systems <br />
+          A designer of smart connected systems <br />
           from microcontrollers to web platforms,<br />
           where hardware meets software.✨
         </p>

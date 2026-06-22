@@ -13,7 +13,7 @@ export default function About() {
       <h2 className="dh-section-title">About Me</h2>
 
       <p style={{ color: "var(--text-dim)", fontSize: "1.05rem", lineHeight: 1.8, maxWidth: 640 }}>
-        I'm an Electrical and Electronics Engineering student who enjoys bringing ideas to life through both circuits and code. I like building simple, real-world projects where hardware and software work together.
+        As an Electrical and Electronics Engineering student who enjoys bringing ideas to life that traverses thru circuits and code. I like providing a simple solution for the complex real world problems with the product where hardware and software work together.
       </p>
 
       <div className="dh-about__grid">
