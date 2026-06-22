@@ -5,6 +5,7 @@ const links = [
   { name: "About",        href: "#about" },
   { name: "Skills",       href: "#skills" },
   { name: "Projects",     href: "#projects" },
+  { name: "Academic",     href: "#academic" },
   { name: "Achievements", href: "#achievements" },
   { name: "Journey",      href: "#journey" },
   { name: "Contact",      href: "#contact" },
@@ -16,7 +17,7 @@ export default function Navbar() {
   return (
     <nav className="dh-nav">
       <div className="dh-nav__inner">
-        <span className="dh-nav__logo">Dharssiga.eee⚡</span>
+        <span className="dh-nav__logo">Dharssiga.eee ⚡</span>
 
         {/* Desktop */}
         <div className="dh-nav__links">
@@ -35,7 +36,6 @@ export default function Navbar() {
         </button>
       </div>
 
-      {/* Mobile menu */}
       {open && (
         <div className="dh-nav__mobile-menu">
           {links.map((l) => (

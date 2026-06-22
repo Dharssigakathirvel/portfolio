@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Download } from "lucide-react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 
 export default function Hero() {
   return (
@@ -27,10 +28,10 @@ export default function Hero() {
         transition={{ duration: 0.9, ease: "easeOut" }}
         className="dh-hero__inner"
       >
-        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems Engineer &nbsp;·&nbsp; SIH Pre-Finalist &nbsp;·&nbsp; Full Stack Developer</p>
+        <p className="dh-eyebrow">EEE Engineer &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Full Stack</p>
 
         <h1 className="dh-hero__title">
-          Hii, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
+          Heyy, I'm <span className="dh-gradient-text">Dharssiga</span> 👋
         </h1>
 
         <p className="dh-hero__sub">
@@ -48,11 +49,14 @@ export default function Hero() {
         </div>
 
         <div className="dh-socials">
-          <a href="https://github.com/" target="_blank" rel="noreferrer" className="dh-social-link" aria-label="GitHub">
+          <a href="https://github.com/Dharssiga" target="_blank" rel="noreferrer" className="dh-social-link" aria-label="GitHub">
             <FaGithub size={20} />
           </a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="dh-social-link" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/dharssiga-kathirvel" target="_blank" rel="noreferrer" className="dh-social-link" aria-label="LinkedIn">
             <FaLinkedin size={20} />
+          </a>
+          <a href="https://leetcode.com/u/Dharssiga/" target="_blank" rel="noreferrer" className="dh-social-link" aria-label="LeetCode">
+            <SiLeetcode size={20} />
           </a>
         </div>
       </motion.div>
